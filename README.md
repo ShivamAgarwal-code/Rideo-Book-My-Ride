@@ -1,4 +1,4 @@
-# Rideo-Book-My-Ride
+# Rideo: Book-My-Ride
 ## Problem Statement:
 
 Today customer has to log into different ride-hailing applications to find the cheapest & quickest available vehicle by doing manual comparisons.
