@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-06-04
+Pega-Codeset-Version: 06-01-01
+ArtifactName: BookMyRide
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2022-Feb-06 00:00:00
+Version: 01.01.01
+PRPC-Engine: 8.6.3 PRPC-8.6.3-576 ()
+Operator: admin.bookmyride
+ArtifactType: product
+Pega-Archive-Type: ApplicationBundle
+Name: BookMyRide
+Archive-Type: PegaArchive
+Export-Date: 2022-Mar-24 23:48:41
+Pega-Codeset-Name: Customer
+Instance-Count: 3279
+
+Name: FileMetadata
+

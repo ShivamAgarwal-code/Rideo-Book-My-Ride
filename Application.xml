@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<application name="BookMyRide 01.01.01" description="" >
+	<sarfile name="BookMyRide_v6_schema.jar" order="1"/>
+	<parfile name="BookMyRide_v6_rules.jar" order="2"/>
+</application>
